@@ -2,13 +2,24 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F51FF&center=true&vCenter=true&width=800&lines=Abhinav+Kumar+Chaudhary;AI+%26+Data+Science+Enthusiast;Building+LLM+Agents+%26+Autonomous+AI+Systems;Transforming+Data+into+Decisions" alt="Typing Animation" />
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #1F51FF, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 46px; font-weight: 800; font-family: 'Fira Code', monospace; border-bottom: 4px solid #8A2BE2; padding-bottom: 8px;">
+    Abhinav Kumar Chaudhary
+  </span>
+</h1>
 
-<p>
-📧 <a href="mailto:abhichiku2004@gmail.com">abhichiku2004@gmail.com</a> •  
-💻 <a href="https://github.com/abhichiku18">github.com/abhichiku18</a> •  
-🔗 <a href="https://linkedin.com/in/abhichiku18">linkedin.com/in/abhichiku18</a>
-</p>
+<!-- 🔹 Animated Typing SVG (Below Name) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Enthusiast;Building+LLM+Agents+%26+Autonomous+AI+Systems;Transforming+Data+into+Decisions" alt="Typing Animation" />
+
+</div>
+
+<!-- Contact Info Static Banner -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📧_Email-abhichiku2004@gmail.com-blue?style=for-the-badge" />
+  <a href="https://github.com/abhichiku18"><img src="https://img.shields.io/badge/GitHub-abhichiku18-black?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/abhichiku18"><img src="https://img.shields.io/badge/LinkedIn-abhichiku18-blue?style=for-the-badge&logo=linkedin"></a>
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F51FF,100:8A2BE2&height=3" width="100%"/>
 
