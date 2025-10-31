@@ -51,11 +51,11 @@
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | 💻 **Programming & Databases** | Python 🐍 • SQL • MySQL • Git • GitHub • Java |
-| 🤖 **Machine Learning & AI** | Regression • Classification • Clustering • Feature Engineering • XGBoost • Random Forest • Model Optimization |
+| 🤖 **Machine Learning & AI** | Regression • Classification • Clustering • Feature Engineering • Random Forest • Model Optimization |
 | 🧠 **Deep Learning & NLP** | TensorFlow • Keras • Transformers • LSTM • Text Analytics • Embeddings • Prompt Engineering |
 | 📊 **Data Analysis & Visualization** | Pandas • NumPy • Power BI • Matplotlib • Seaborn • Plotly • EDA • Statistical Analysis |
-| ⚙️ **MLOps & Deployment** | Flask • Streamlit • FastAPI • Docker • Model Versioning • API Integration |
-| ☁️ **Cloud & Emerging Tools** | AWS • Azure • LangChain • OpenAI API • RAG Systems • FAISS • Pinecone • Agentic AI • n8n Automation |
+| ⚙️ **MLOps & Deployment** | Flask • Streamlit • Docker • API Integration |
+| ☁️ **Cloud & Emerging Tools** | AWS • LangChain • OpenAI API • RAG Systems • FAISS • Agentic AI • n8n Automation |
 | 📐 **Mathematics & Statistics** | Probability • Hypothesis Testing • Linear Algebra • Optimization • Time Series Forecasting |
 | 🌱 **Soft Skills** | Analytical Thinking • Problem Solving • Communication • Team Collaboration • Design Thinking |
 
