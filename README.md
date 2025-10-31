@@ -50,7 +50,7 @@
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| 💻 **Programming & Databases** | Python 🐍 • SQL • MySQL • Git • GitHub |
+| 💻 **Programming & Databases** | Python 🐍 • SQL • MySQL • Git • GitHub • Java |
 | 🤖 **Machine Learning & AI** | Regression • Classification • Clustering • Feature Engineering • XGBoost • Random Forest • Model Optimization |
 | 🧠 **Deep Learning & NLP** | TensorFlow • Keras • Transformers • LSTM • Text Analytics • Embeddings • Prompt Engineering |
 | 📊 **Data Analysis & Visualization** | Pandas • NumPy • Power BI • Matplotlib • Seaborn • Plotly • EDA • Statistical Analysis |
@@ -61,11 +61,14 @@
 
 ---
 
-<!-- Skill Badges -->
+<!-- 🚀 Skill Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-10217D?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-1F51FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjI1IiBjeT0iMjUiIHI9IjEyIiBmaWxsPSIjZmZmIiBzdHJva2U9IiMxRjUxRkYiIHN0cm9rZS13aWR0aD0iNCIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -74,6 +77,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=sparkfun&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
 
 <!-- Cool Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F51FF,100:8A2BE2&height=3" width="100%"/>
